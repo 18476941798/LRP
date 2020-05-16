@@ -1,8 +1,7 @@
+#修改后的代码
 import turtle
-
-  
-
 # 设置初始位置
+
 
 turtle.penup()
 
